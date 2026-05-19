@@ -297,7 +297,7 @@ adidas-powerbi-dashboard/
 
 <div align="center">
 
-**Prepared by:** Aman Faras &nbsp;|&nbsp; **Version:** v1.0 &nbsp;|&nbsp; **Year:** 2025
+**Prepared by:** Aman Faras &nbsp;|&nbsp; **Version:** v1.0 &nbsp;|&nbsp; **Year:** 2026
 
 *Built with ❤️ using Microsoft Power BI Desktop*
 
