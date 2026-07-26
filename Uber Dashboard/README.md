@@ -194,7 +194,7 @@ This project demonstrates how raw Uber ride-booking data can be transformed into
 
 # 👨‍💻 Author
 
-## Mamta Rathore
+## Aman Faras
 
 
 
